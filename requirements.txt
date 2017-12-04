@@ -1,4 +1,4 @@
-mrjob
+mrjob==0.5.11
 boto
 pywb
 #-e git+https://github.com/matteobertozzi/Hadoop.git#egg=hadoop&subdirectory=python-hadoop
